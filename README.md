@@ -50,7 +50,7 @@
 </a>
 
 <a href="https://3-d-portfolio-nine-iota.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://cdn-icons-png.flaticon.com/128/281/281089.png"/>
 </a>
 
 </p>
