@@ -124,19 +124,19 @@ I recently graduated with a **B.E. in Information Technology** (**CGPA: 8.64**) 
 <div align="center">
 
 <a href="https://github.com/parthkprogrammer/DBMS-Mini_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthkprogrammer&repo=DBMS-Mini_Project&theme=tokyonight" alt="DBMS-Mini_Project" />
+  <img src="https://github-readme-stats-git.vercel.app/api/pin?username=parthkprogrammer&repo=DBMS-Mini_Project&theme=tokyonight" alt="DBMS-Mini_Project" />
 </a>
 <a href="https://github.com/parthkprogrammer/LifeCompass_JAVA_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthkprogrammer&repo=LifeCompass_JAVA_Project&theme=tokyonight" alt="LifeCompass_JAVA_Project" />
+  <img src="https://github-readme-stats-git.vercel.app/api/pin?username=parthkprogrammer&repo=LifeCompass_JAVA_Project&theme=tokyonight" alt="LifeCompass_JAVA_Project" />
 </a>
 
 <br>
 
 <a href="https://github.com/parthkprogrammer/Build-Games-with-Amazon-Q-CLI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthkprogrammer&repo=Build-Games-with-Amazon-Q-CLI&theme=tokyonight" alt="Build-Games-with-Amazon-Q-CLI" />
+  <img src="https://github-readme-stats-git.vercel.app/api/pin?username=parthkprogrammer&repo=Build-Games-with-Amazon-Q-CLI&theme=tokyonight" alt="Build-Games-with-Amazon-Q-CLI" />
 </a>
 <a href="https://github.com/parthkprogrammer/prioritization-module-final1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthkprogrammer&repo=prioritization-module-final1&theme=tokyonight" alt="prioritization-module-final" />
+  <img src="https://github-readme-stats-git.vercel.app/api/pin?username=parthkprogrammer&repo=prioritization-module-final1&theme=tokyonight" alt="prioritization-module-final" />
 </a>
 
 </div>
@@ -443,8 +443,8 @@ currently:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=parthkprogrammer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkprogrammer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats-git.vercel.app/api?username=parthkprogrammer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats-git.vercel.app/api/top-langs?username=parthkprogrammer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br><br>
 
