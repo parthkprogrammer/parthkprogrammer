@@ -422,7 +422,7 @@ currently:
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:parthkedar456@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/parthkedar">
@@ -431,7 +431,7 @@ currently:
 <a href="https://github.com/parthkprogrammer">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://3-d-portfolio-nine-iota.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
