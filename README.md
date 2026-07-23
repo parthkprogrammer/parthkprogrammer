@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:5B21B6,50:7C3AED,100:2563EB&text=Parth%20Kedar&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Java%20Backend%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Backend+Developer;AI%2FML+Engineer;Building+Scalable+Software;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Backend+Developer;AI%2FML+Engineer;Backend+%E2%80%A2+Cloud+%E2%80%A2+AI+%E2%80%A2+System+Design;Always+Learning+Always+Building" />
 
 <br>
 
@@ -18,25 +18,21 @@
 <a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
 <a href="https://linkedin.com/in/parthkedar">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/parthkprogrammer">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=parthkprogrammer&label=Profile%20Views&color=7C3AED&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=parthkprogrammer&style=for-the-badge&color=7C3AED&label=Profile+Views" alt="Profile Views" />
 
 ![](https://img.shields.io/github/followers/parthkprogrammer?label=Followers&style=flat-square&color=2563EB)
-
 ![](https://img.shields.io/github/stars/parthkprogrammer?affiliations=OWNER&style=flat-square&color=7C3AED)
 
 </div>
@@ -47,12 +43,8 @@
 
 ```java
 public class ParthKedar {
-
     String role = "Software Engineer";
-
-    String specialization =
-        "Java Backend Development";
-
+    String specialization = "Java Backend Development";
     String interests = """
         • Distributed Systems
         • Backend Engineering
@@ -61,106 +53,52 @@ public class ParthKedar {
         • Cloud Technologies
         • System Design
         """;
-
-    String currentFocus =
-        "Building scalable backend systems and AI-powered applications.";
-
+    String currentFocus = "Building scalable backend systems and AI-powered applications.";
 }
 ```
 
-I'm a **Software Engineer** passionate about building scalable, secure, and maintainable software.
+I'm a **Software Engineer** passionate about building scalable, secure, and maintainable software. 
 
-I recently completed my **B.E. in Information Technology** with a **CGPA of 8.64** and have hands-on experience developing backend systems, AI-powered applications, and modern software solutions.
+I recently graduated with a **B.E. in Information Technology** (**CGPA: 8.64**) and have hands-on experience developing backend services, cloud-native deployments, and AI-powered systems. 
 
-My experience includes designing REST APIs, integrating databases, developing Java applications, and applying AI/ML techniques to solve real-world problems. I enjoy learning new technologies, writing clean code, and building products that create meaningful impact.
+---
 
-My engineering interests span:
+## 📊 Profile at a Glance
 
-- Backend Engineering
-- Java Ecosystem
-- Software Architecture
-- REST API Design
-- AI & Machine Learning
-- Database Systems
-- Cloud Technologies
-- System Design
-- Open Source
+<div align="center">
+
+| 💻 Experience | 🚀 Projects | 📄 Research | 💼 Internship | ☁ Certifications | 🛠 Technologies |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **Java Developer** | **5+ Active Repos** | **1 IJCA Publication** | **SORT Solutions (Java)** | **Microsoft Azure & Oracle Cloud** | **20+ Languages & Frameworks** |
+
+</div>
 
 ---
 
 ## Open To
 
-✔ Software Engineer
-
-✔ Backend Engineer
-
-✔ Java Developer
-
-✔ AI/ML Engineer
-
-✔ Full Stack Developer
-
-✔ Open Source Collaboration
-
-✔ Internship & New Graduate Opportunities
+✔ Software Engineer | ✔ Backend Engineer | ✔ Java Developer | ✔ AI/ML Engineer | ✔ Full Stack Developer | ✔ Open Source Collaboration
 
 ---
-# Tech Stack
+
+# 🛠 Tech Stack & Tools
 
 <div align="center">
 
-### Languages
+### Languages & Core
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,dart,html,css,js,ts&theme=dark" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,dart,html,css,mysql&theme=dark" />
-</p>
+### Backend Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,maven&theme=dark" />
 
-### Frontend
+### Databases, Cloud & ORM
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,azure&theme=dark" />
 
-<p>
+### Mobile & Desktop Frontend
 <img src="https://skillicons.dev/icons?i=flutter,html,css&theme=dark" />
-<img src="https://img.shields.io/badge/JavaFX-7C3AED?style=for-the-badge"/>
-</p>
 
-### Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase&theme=dark"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/REST%20API-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JDBC-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multithreading-4F46E5?style=for-the-badge"/>
-</p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,python&theme=dark"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/ONNX_Runtime-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-2563EB?style=for-the-badge"/>
-</p>
-
-### Cloud, DevOps & Tooling
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,maven,firebase,postman,vscode,vercel&theme=dark"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System_Design-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agile-SDLC-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DSA-4338CA?style=for-the-badge"/>
-</p>
+### Developer Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel&theme=dark" />
 
 </div>
 
@@ -181,18 +119,56 @@ My engineering interests span:
 
 ---
 
+# 📌 Pinned Repositories
+
+<div align="center">
+
+<a href="https://github.com/parthkprogrammer/DBMS-Mini_Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthkprogrammer&repo=DBMS-Mini_Project&theme=tokyonight" alt="DBMS-Mini_Project" />
+</a>
+<a href="https://github.com/parthkprogrammer/LifeCompass_JAVA_Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthkprogrammer&repo=LifeCompass_JAVA_Project&theme=tokyonight" alt="LifeCompass_JAVA_Project" />
+</a>
+
+<br>
+
+<a href="https://github.com/parthkprogrammer/Build-Games-with-Amazon-Q-CLI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthkprogrammer&repo=Build-Games-with-Amazon-Q-CLI&theme=tokyonight" alt="Build-Games-with-Amazon-Q-CLI" />
+</a>
+<a href="https://github.com/parthkprogrammer/prioritization-module-final1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthkprogrammer&repo=prioritization-module-final1&theme=tokyonight" alt="prioritization-module-final" />
+</a>
+
+</div>
+
+---
+
 # Featured Projects
 
 <details>
 <summary>
 
-## 🧠 MindEase AI
-
-*AI-Powered Mental Wellness Platform*
+## 🧠 MindEase AI — AI-Powered Mental Wellness Platform
 
 </summary>
 
 A full-stack AI-powered mental wellness application designed to provide real-time facial emotion recognition, personalized wellness recommendations, appointment scheduling, and secure psychologist interactions.
+
+```
+Client (Flutter Mobile UI) ──[ REST APIs / JSON ]──➔ Backend (Node.js & Express)
+                                                             │
+                                                  ┌──────────┴──────────┐
+                                                  ▼                     ▼
+                                       Databases (PostgreSQL)  AI Models (ONNX / EfficientNet)
+                                       & Documents (MongoDB)   for Face Emotion Recog
+```
+
+### Highlights & Features
+- ✓ **Authentication**: Secure JWT-based registration and login flows.
+- ✓ **Real-time Inference**: Facial emotion recognition using optimized ONNX models with EfficientNetV2B0.
+- ✓ **Data Architecture**: Hybrid PostgreSQL (relational schedule data) and MongoDB (unstructured clinical logs).
+- ✓ **Scheduling**: Complete psychologist appointment booking and calendar module.
+- ✓ **SOS Support**: Direct-trigger emergency Crisis SOS support module.
 
 | Category | Details |
 |----------|---------|
@@ -203,32 +179,28 @@ A full-stack AI-powered mental wellness application designed to provide real-tim
 | Impact | AI-assisted mental wellness support platform |
 | Repository | Coming Soon |
 
-### Highlights
-
-- Real-time facial emotion recognition
-- AI-powered recommendation engine
-- Secure JWT authentication
-- PostgreSQL + MongoDB hybrid architecture
-- REST API integration
-- Modern Flutter UI
-- Appointment scheduling
-- Crisis SOS module
-
 </details>
 
 ---
 
 <details>
-
 <summary>
 
-## 💙 LifeCompass
-
-*Java Mental Wellness Platform*
+## 💙 LifeCompass — Java Mental Wellness Platform
 
 </summary>
 
 Desktop-based mental wellness application focused on journaling, mood tracking, CBT support, and community engagement.
+
+```
+Desktop Client (JavaFX & MVC) ──[ Real-time Sync / JSON ]──➔ Cloud (Firebase Auth & Firestore)
+```
+
+### Highlights & Features
+- ✓ **Mood Tracking**: Interactive calendar logging with mental wellbeing trend charts.
+- ✓ **Digital Journaling**: Markdown-supported personal CBT-focused journaling.
+- ✓ **Cloud Sync**: Fast and real-time Firestore database synchronization.
+- ✓ **Authentication**: Secure user profiling through Firebase Authentication.
 
 | Category | Details |
 |----------|---------|
@@ -237,34 +209,25 @@ Desktop-based mental wellness application focused on journaling, mood tracking, 
 | Performance | Real-time Firestore synchronization |
 | Security | Firebase Authentication |
 | Impact | Digital mental wellness platform |
-| Repository | Coming Soon |
-
-### Highlights
-
-- Mood tracking
-- Digital journaling
-- CBT support
-- Community discussion
-- Firebase Authentication
-- JavaFX Desktop UI
-- MVC Architecture
-- Object-Oriented Design
+| Repository | [LifeCompass_JAVA_Project](https://github.com/parthkprogrammer/LifeCompass_JAVA_Project) |
 
 </details>
 
 ---
 
 <details>
-
 <summary>
 
-## 🎓 Student Management System
-
-*Java Backend Application*
+## 🎓 Student Management System — Java Backend Application
 
 </summary>
 
 Backend-driven student management application implementing CRUD operations with relational databases.
+
+### Highlights & Features
+- ✓ **Layered Architecture**: Clean MVC setup decoupling UI, DAO layer, and DB operations.
+- ✓ **Database Normalization**: Highly optimized schemas in MySQL with constraints and triggers.
+- ✓ **Exception Handling**: Global exception controllers ensuring smooth user experiences.
 
 | Category | Details |
 |----------|---------|
@@ -273,32 +236,25 @@ Backend-driven student management application implementing CRUD operations with 
 | Performance | Optimized SQL queries |
 | Security | Input validation |
 | Impact | Simplified academic data management |
-| Repository | Coming Soon |
-
-### Highlights
-
-- CRUD operations
-- JDBC integration
-- MySQL database
-- Layered architecture
-- Database normalization
-- Exception handling
+| Repository | [DBMS-Mini_Project](https://github.com/parthkprogrammer/DBMS-Mini_Project) |
 
 </details>
 
 ---
 
 <details>
-
 <summary>
 
-## 🌍 Land Subsidence Analysis Research
-
-*IJCA Publication*
+## 🌍 Land Subsidence Analysis Research — IJCA Publication
 
 </summary>
 
 Published research exploring GIS and Remote Sensing technologies for urban land subsidence monitoring and sustainable city planning.
+
+### Highlights & Features
+- ✓ **Geospatial Processing**: Land subsidence analysis using Google Earth Engine.
+- ✓ **Sensor Integration**: GIS mapping combining InSAR satellite data and LiDAR surveys.
+- ✓ **Urban Modeling**: Developing forecasting models for urban planning resilience.
 
 | Category | Details |
 |----------|---------|
@@ -308,29 +264,18 @@ Published research exploring GIS and Remote Sensing technologies for urban land 
 | Journal | IJCA |
 | Year | 2025 |
 
-### Highlights
-
-- GIS Analysis
-- Remote Sensing
-- InSAR overview
-- LiDAR techniques
-- Google Earth Engine
-- Urban Planning
-- Environmental Monitoring
-
 </details>
 
 ---
+
 # Experience
 
 ## Java Developer Intern — SORT Solutions
-
 **March 2025 – May 2025**
 
 Worked as a Java Developer Intern, contributing to backend application development, REST API integration, database operations, and collaborative software development. Gained practical experience in writing clean, maintainable code while working in an Agile environment.
 
 ### Responsibilities
-
 - Developed backend modules using Java and Object-Oriented Programming principles.
 - Built and integrated RESTful APIs for application features.
 - Worked with relational databases using JDBC and MySQL.
@@ -339,7 +284,6 @@ Worked as a Java Developer Intern, contributing to backend application developme
 - Followed Agile development practices and Git-based version control.
 
 **Core Skills**
-
 `Java` `REST APIs` `JDBC` `MySQL` `Git` `GitHub` `Agile` `OOP`
 
 ---
@@ -366,49 +310,33 @@ Worked as a Java Developer Intern, contributing to backend application developme
 # Certifications
 
 ## Microsoft
-
 <p>
-
 <a href="YOUR_AZURE_CERTIFICATE_LINK">
-
 <img src="https://img.shields.io/badge/Microsoft-Azure_AI_Fundamentals_(AI--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
 </a>
-
 </p>
 
 ---
 
 ## Oracle
-
 <p>
-
 <a href="YOUR_ORACLE_CERTIFICATE_LINK">
-
 <img src="https://img.shields.io/badge/Oracle-Cloud_Infrastructure_Foundations-C74634?style=for-the-badge&logo=oracle&logoColor=white"/>
-
 </a>
-
 </p>
 
 ---
 
 ## NPTEL
-
 <p>
-
 <img src="https://img.shields.io/badge/NPTEL-Engineering_Learning-6D28D9?style=for-the-badge"/>
-
 </p>
 
 ---
 
 ## Cisco
-
 <p>
-
 <img src="https://img.shields.io/badge/Cisco-Networking_&_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
 </p>
 
 ---
@@ -426,45 +354,21 @@ Worked as a Java Developer Intern, contributing to backend application developme
 # Leadership & Community
 
 ### National Service Scheme (NSS)
-
-**Volunteer**
-
-**2023 – 2025**
+**Volunteer | 2023 – 2025**
 
 Activities:
-
-- Community Service
-- Tree Plantation
-- Blood Donation Camps
-- Educational Support Programs
-- Environmental Awareness
-- Social Welfare Initiatives
+- Community Service & Social Welfare Initiatives
+- Tree Plantation & Environmental Awareness
+- Blood Donation Camps & Educational Support Programs
 
 ---
 
 # Professional Highlights
 
-✔ Java Backend Development
-
-✔ REST API Design
-
-✔ Database Management
-
-✔ AI & Machine Learning
-
-✔ Software Architecture
-
-✔ Full Stack Development
-
-✔ Research & Innovation
-
-✔ Agile Software Development
-
-✔ Clean Code Practices
-
-✔ Continuous Learning
+✔ Java Backend Development | ✔ REST API Design | ✔ Database Management | ✔ AI & Machine Learning | ✔ Software Architecture | ✔ Full Stack Development | ✔ Research & Innovation | ✔ Agile Software Development | ✔ Clean Code Practices | ✔ Continuous Learning
 
 ---
+
 # Coding Profiles
 
 <div align="center">
@@ -472,15 +376,12 @@ Activities:
 <a href="https://leetcode.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
-
 <a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Coding_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
-
 <a href="https://www.hackerrank.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/HackerRank-Developer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
-
 <a href="https://www.codechef.com/users/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/CodeChef-Competitive_Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
@@ -489,21 +390,65 @@ Activities:
 
 ---
 
-# GitHub Analytics
+# 🎯 Current Focus
+
+```yaml
+currently:
+  role: Software Engineer
+
+  building:
+    - AI-powered Mental Wellness Platform (MindEase AI)
+
+  learning:
+    - Spring Boot
+    - Docker
+    - Kubernetes
+    - Microservices
+    - System Design
+
+  reading:
+    - Designing Data-Intensive Applications (Martin Kleppmann)
+
+  goal:
+    - Software Engineer @ FAANG / Top Tech
+
+  open_to:
+    - Internship & Full-time Opportunities
+```
+
+---
+
+# Connect With Me
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=parthkprogrammer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkprogrammer&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/parthkedar">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/parthkprogrammer">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
-<br>
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=parthkprogrammer&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=parthkprogrammer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkprogrammer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=parthkprogrammer&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 </div>
 
@@ -533,83 +478,33 @@ Activities:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/parthkprogrammer/parthkprogrammer/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/parthkprogrammer/parthkprogrammer/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake" />
 
 </div>
 
 ---
 
-# Current Focus
-
-```yaml
-current_status:
-  role: Software Engineer
-
-learning:
-  - Advanced Java
-  - Spring Boot
-  - System Design
-  - Distributed Systems
-  - Microservices
-  - Cloud Computing
-
-building:
-  - AI-powered Mental Wellness Platform
-  - Backend Systems
-  - Full Stack Applications
-  - Java Projects
-
-exploring:
-  - Kubernetes
-  - Docker
-  - AWS
-  - Azure
-  - High Performance APIs
-
-open_to:
-  - Software Engineer
-  - Backend Engineer
-  - Java Developer
-  - AI Engineer
-  - Full Stack Developer
-  - Open Source Collaboration
-```
-
----
-
-# Connect With Me
+# GitHub Metrics Classic Card
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/parthkedar">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/parthkprogrammer">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<img width="100%" src="https://raw.githubusercontent.com/parthkprogrammer/parthkprogrammer/output/github-metrics.svg" alt="GitHub Metrics Classic Card" />
 
 </div>
 
 ---
 
-# Quote
+──────────────────────────────────────────────────────────
 
 <div align="center">
 
-> **"Great software is built through curiosity, consistency, and continuous learning."**
+### ⚡ "Build software that people trust. Build systems that scale. Never stop learning."
+
+— **Parth Kedar**
 
 </div>
 
----
+──────────────────────────────────────────────────────────
 
 <div align="center">
 
