@@ -346,7 +346,7 @@ Worked as a Java Developer Intern, contributing to backend application developme
 | Degree | Institution | Duration | Score |
 |---------|-------------|----------|-------|
 | **B.E. Information Technology** | NBN Sinhgad Technical Institutes Campus, Pune | 2022 – 2026 | **CGPA: 8.64** |
-| Higher Secondary (HSC) | Maharashtra State Board | 2020 – 2022 | 64.83% |
+| Higher Secondary (HSC) | Maharashtra State Board | 2021 – 2022 | 64.83% |
 | Secondary School (SSC) | Maharashtra State Board | 2019 – 2020 | 84.20% |
 
 ---
