@@ -277,6 +277,32 @@ Published research exploring GIS and Remote Sensing technologies for urban land 
 
 ---
 
+<details>
+<summary>
+
+## 📊 Prioritization Module — Task Prioritization Platform
+
+</summary>
+
+A modern web-based prioritization module built with React, TypeScript, and Vite to help users efficiently organize and manage tasks based on priority. Designed with a responsive UI using Tailwind CSS and shadcn/ui.
+
+### Highlights & Features
+- ✓ **Task Prioritization**: Help users efficiently organize, filter, and manage tasks based on customized priority thresholds.
+- ✓ **Sleek Interface**: Built with shadcn/ui components and fully responsive styling using Tailwind CSS.
+- ✓ **Type-Safe & Fast**: Fully engineered in TypeScript and bundled via Vite for instant build speed and premium performance.
+
+| Category | Details |
+|----------|---------|
+| Stack | React, TypeScript, Vite, Tailwind CSS, shadcn/ui |
+| Scale | Responsive Frontend Application Module |
+| Performance | Sub-second Hot Module Replacement (HMR) |
+| Architecture | Component-driven UI Design |
+| Repository | [prioritization-module-final1](https://github.com/parthkprogrammer/prioritization-module-final1) |
+
+</details>
+
+---
+
 # Experience
 
 ## Java Developer Intern — SORT Solutions
