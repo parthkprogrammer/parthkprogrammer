@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Open%20to-Software%20Engineering-059669?style=for-the-badge)
 
 ![](https://img.shields.io/badge/Location-Pune,%20India-7C3AED?style=flat-square)
-![](https://img.shields.io/badge/University-NBN%20Sinhgad%20Technical%20Institutes-2563EB?style=flat-square)
+![](https://img.shields.io/badge/University-NBN%20Sinhgad%20Technical%20Institutes%Campus%20Pune-2563EB?style=flat-square)
 
 <br><br>
 
