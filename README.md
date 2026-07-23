@@ -537,8 +537,6 @@ Activities:
 
 </div>
 
-> **Note:** The snake animation requires a GitHub Actions workflow. Once your README is ready, I can provide the workflow file.
-
 ---
 
 # Current Focus
