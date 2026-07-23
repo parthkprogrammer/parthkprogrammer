@@ -123,6 +123,15 @@ I recently graduated with a **B.E. in Information Technology** (**CGPA: 8.64**) 
 
 <div align="center">
 
+<a href="https://github.com/parthkprogrammer/MindEase-BackEnd">
+  <img src="https://github-readme-stats-git.vercel.app/api/pin?username=parthkprogrammer&repo=MindEase-BackEnd&theme=tokyonight" alt="MindEase-BackEnd" />
+</a>
+<a href="https://github.com/parthkprogrammer/MindEase-FrontEnd">
+  <img src="https://github-readme-stats-git.vercel.app/api/pin?username=parthkprogrammer&repo=MindEase-FrontEnd&theme=tokyonight" alt="MindEase-FrontEnd" />
+</a>
+
+<br>
+
 <a href="https://github.com/parthkprogrammer/DBMS-Mini_Project">
   <img src="https://github-readme-stats-git.vercel.app/api/pin?username=parthkprogrammer&repo=DBMS-Mini_Project&theme=tokyonight" alt="DBMS-Mini_Project" />
 </a>
@@ -311,7 +320,7 @@ Worked as a Java Developer Intern, contributing to backend application developme
 
 ## Microsoft
 <p>
-<a href="YOUR_AZURE_CERTIFICATE_LINK">
+<a href="https://www.credly.com/badges/770a21b0-944e-4e5f-90a2-43cee539b572/linked_in_profile">
 <img src="https://img.shields.io/badge/Microsoft-Azure_AI_Fundamentals_(AI--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </a>
 </p>
@@ -320,24 +329,22 @@ Worked as a Java Developer Intern, contributing to backend application developme
 
 ## Oracle
 <p>
-<a href="YOUR_ORACLE_CERTIFICATE_LINK">
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=881013094B81F234C7DADB11CC39BBBF3A529FC8FA1749144F9F24B020D1151C">
 <img src="https://img.shields.io/badge/Oracle-Cloud_Infrastructure_Foundations-C74634?style=for-the-badge&logo=oracle&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## NPTEL
+## Spoken Tutorial, IIT Bombay
 <p>
-<img src="https://img.shields.io/badge/NPTEL-Engineering_Learning-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IIT_Bombay-Spoken_Tutorial-990000?style=for-the-badge" alt="IIT Bombay Spoken Tutorial" />
 </p>
 
----
-
-## Cisco
-<p>
-<img src="https://img.shields.io/badge/Cisco-Networking_&_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-</p>
+*   **Git** — Issued Apr 2025 (Credential ID: `3491734CYT`)
+*   **Java** — Issued Oct 2024 (Credential ID: `3491734UB9`)
+*   **Python 3.4.3** — Issued Apr 2024 (Credential ID: `3491734QL8`)
+*   **C++** — Issued Nov 2023 (Credential ID: `3491734W7V`)
 
 ---
 
