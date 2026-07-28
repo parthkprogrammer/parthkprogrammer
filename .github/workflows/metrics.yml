@@ -16,7 +16,7 @@ jobs:
     steps:
       # Step 1: Generate Metrics Classic Card (commits directly to output branch via API)
       - name: Generate Metrics Classic Card
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@master
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -30,7 +30,7 @@ jobs:
 
       # Step 2: Generate Achievements (commits directly to output branch via API)
       - name: Generate Achievements
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@master
         with:
           filename: github-achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}

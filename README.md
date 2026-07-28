@@ -481,7 +481,7 @@ currently:
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=parthkprogrammer&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=parthkprogrammer&theme=tokyonight&hide_border=true&v=1" alt="Streak Stats" />
 
 </div>
 
