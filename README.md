@@ -487,11 +487,11 @@ currently:
 
 ---
 
-# GitHub Trophies
+# GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=parthkprogrammer&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
+<img src="https://raw.githubusercontent.com/parthkprogrammer/parthkprogrammer/output/github-achievements.svg" alt="GitHub Achievements" />
 
 </div>
 
