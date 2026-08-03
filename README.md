@@ -503,7 +503,7 @@ currently:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/parthkprogrammer/parthkprogrammer/output/github-achievements.svg" alt="GitHub Achievements" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=parthkprogrammer&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 

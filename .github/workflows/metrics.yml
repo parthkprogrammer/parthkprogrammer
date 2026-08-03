@@ -28,20 +28,6 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_details: bytes-size, percentage
 
-      # Step 2: Generate Achievements (commits directly to output branch via API)
-      - name: Generate Achievements
-        uses: stalomeow/metrics@edcae0f
-        with:
-          filename: github-achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_branch: output
-          user: parthkprogrammer
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_display: compact
-          debug: yes
-
       # Step 3: Checkout repository (on main branch)
       - name: Checkout Repository
         uses: actions/checkout@v4
