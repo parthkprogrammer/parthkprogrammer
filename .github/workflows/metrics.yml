@@ -30,7 +30,7 @@ jobs:
 
       # Step 2: Generate Achievements (commits directly to output branch via API)
       - name: Generate Achievements
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: github-achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -40,6 +40,7 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_threshold: C
           plugin_achievements_display: compact
+          debug: yes
 
       # Step 3: Checkout repository (on main branch)
       - name: Checkout Repository
