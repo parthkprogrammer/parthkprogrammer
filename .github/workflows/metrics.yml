@@ -30,7 +30,7 @@ jobs:
 
       # Step 2: Generate Achievements (commits directly to output branch via API)
       - name: Generate Achievements
-        uses: lowlighter/metrics@master
+        uses: stalomeow/metrics@edcae0f
         with:
           filename: github-achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
