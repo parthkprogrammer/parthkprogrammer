@@ -374,6 +374,18 @@ Worked as a Java Developer Intern, contributing to backend application developme
 
 ---
 
+## Core2web & Incubators
+<p>
+<img src="https://img.shields.io/badge/Core2web-Certifications-7C3AED?style=for-the-badge" alt="Core2web & Incubators" />
+</p>
+
+*   **Mobile Application Development in Flutter** — Issued Nov 2025 (Credential ID: `INC20250422`) (by Incubators)
+*   **C++ Course (70+ Hours)** — Issued Nov 2025 (Credential ID: `C2W_2500250`)
+*   **C Programming Course (100+ Hours)** — Issued Oct 2025 (Credential ID: `C2W_2500764`)
+*   **Java Language Course** — Issued Sep 2025 (Credential ID: `25JC2W20000638`)
+
+---
+
 # Education
 
 | Degree | Institution | Duration | Score |
