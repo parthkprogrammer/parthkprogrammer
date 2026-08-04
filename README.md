@@ -493,7 +493,7 @@ currently:
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=parthkprogrammer&theme=tokyonight&hide_border=true&v=1" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=parthkprogrammer&theme=tokyonight&hide_border=true&v=2" alt="Streak Stats" />
 
 </div>
 
@@ -503,7 +503,7 @@ currently:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=parthkprogrammer&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.devomb.com/?username=parthkprogrammer&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -513,7 +513,7 @@ currently:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthkprogrammer&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthkprogrammer&theme=tokyo-night&hide_border=true&v=1"/>
 
 </div>
 
